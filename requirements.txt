@@ -7,7 +7,7 @@ numba
 phonemizer==3.2.1
 scipy
 torch~=1.13.1
-torchvision==0.12.1
+torchvision==0.14.1
 Unidecode==1.1.1
 tensorboardX
 tqdm==4.66.1
